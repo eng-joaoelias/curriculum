@@ -1,6 +1,6 @@
 # Currículo de Desenvolvedor Web - Página Estática
 
-Este repositório contém os arquivos HTML e CSS necessários para criar uma página estática que exibe o currículo de um desenvolvedor web. A página foi desenvolvida com o objetivo de apresentar informações profissionais e habilidades de forma clara e visualmente atraente. 
+Este repositório contém os arquivos HTML e CSS necessários para criar uma página estática que exibe o meu currículo de desenvolvedor web. A página foi desenvolvida com o objetivo de apresentar informações profissionais e habilidades de forma clara e visualmente atraente. 
 
 ## Descrição
 
