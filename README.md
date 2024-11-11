@@ -28,7 +28,7 @@ git clone https://github.com/eng-joaoelias/curriculum.git
 ### 2. Abra os arquivos HTML e CSS
 
 - Abra o arquivo `index.html` em seu navegador para visualizar a página.
-- O arquivo `styles.css` contém a estilização da página.
+- O arquivo `curriculum_style.css` contém a estilização da página.
 
 ### 3. Personalize
 
