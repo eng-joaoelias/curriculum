@@ -34,7 +34,7 @@ git clone https://github.com/eng-joaoelias/curriculum.git
 
 Você pode editar os arquivos `index.html` e `curriculum_style.css` para adaptar o currículo conforme suas necessidades. As seções do currículo estão bem definidas no código HTML e o estilo pode ser ajustado no arquivo CSS.
 
-## Exemplo de Estrutura de Diretórios
+## Estrutura de Diretórios
 
 ```plaintext
 .
