@@ -41,7 +41,7 @@ Você pode editar os arquivos `index.html` e `curriculum_style.css` para adaptar
 ├── index.html                  # Arquivo HTML principal
 ├── curriculum_style.css        # Arquivo CSS com a estilização
 ├── favicon.svg                 # Favicon da página
-└── profilePic.jpg              # Ffoto do perfil
+└── profilePic.jpg              # Foto do perfil
 ```
 
 ## Contribuições
